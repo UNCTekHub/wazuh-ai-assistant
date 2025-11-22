@@ -1,0 +1,12 @@
+ollama
+langchain
+sentence-transformers
+faiss-cpu
+beautifulsoup4
+requests
+python-dotenv
+pypdf
+tiktoken
+unstructured
+webdriver-manager
+playwright
